@@ -1,4 +1,4 @@
-namespace MinimalApi.Enuns;
+namespace MinimalApi.Dominio.Enuns;
 
 public enum Perfil
 {

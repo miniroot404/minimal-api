@@ -1,8 +1,8 @@
-using MinimalApi.Enuns;
+using MinimalApi.Dominio.Enuns;
 
 namespace   MinimalApi.Dominio.ModelViews;
 
-public record AdmisnistradorModelView
+public record AdministradorModelView
 { 
     public int Id { get; set; } = default!;
     public string Email { get; set; } = default!;
